@@ -26,10 +26,8 @@ I hold a Master's degree in Machine Learning and Big Data. I am passionate about
 - **GitHub:** [github.com/yana-ivanova](https://github.com/yana-ivanova)
 
 ## 🎓 Education:
-- **Master's in Machine Learning and Big Data** - [Your University] (2024)
-- **Bachelor's in Applied Mathematics and Informatics** - [Your University] (2022)
-
-- 
+- **Master's in Machine Learning and Big Data** - (2024)
+- **Bachelor's in Applied Mathematics and Informatics** - (2022)
 
 <!--
 **zyf2021/zyf2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
