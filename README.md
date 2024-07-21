@@ -16,14 +16,19 @@ I hold a Master's degree in Machine Learning and Big Data. I am passionate about
 - Best practices in data engineering and MLOps.
 
 ## 🌟 Projects:
+|Data Analysis with Python|Machine Learning with Python|
+|---|---|
+|[Page View Time Series Visualizer](https://github.com/zyf2021/Page-View-Time-Series-Visualizer)|[Book Recommendation Engine using KNN](https://github.com/zyf2021/fcc_book_recommendation_knn)|
+
+
 - [Housing Price Prediction](https://github.com/yana-ivanova/housing-price-prediction) - A regression model for predicting housing prices.
 - [Image Classification](https://github.com/yana-ivanova/image-classification) - A CNN for classifying images from the CIFAR-10 dataset.
 - [Big Data Analysis](https://github.com/yana-ivanova/big-data-analysis) - A project on big data analysis using Apache Spark.
 
-## 📫 Contact Me:
+<!-- ## 📫 Contact Me:
 - **Email:** yana.ivanova@example.com
 - **LinkedIn:** [linkedin.com/in/yana-ivanova](https://linkedin.com/in/yana-ivanova)
-- **GitHub:** [github.com/yana-ivanova](https://github.com/yana-ivanova)
+- **GitHub:** [github.com/yana-ivanova](https://github.com/yana-ivanova) -->
 
 ## 🎓 Education:
 - **Master's in Machine Learning and Big Data** - (2024)
