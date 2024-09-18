@@ -18,8 +18,8 @@ I hold a Master's degree in Machine Learning and Big Data. I am passionate about
 ## 🌟 Projects:
 |Data Analysis with Python|Machine Learning with Python|
 |---|---|
-|[Page View Time Series Visualizer](https://github.com/zyf2021/Page-View-Time-Series-Visualizer)|[Book Recommendation Engine using KNN](https://github.com/zyf2021/fcc_book_recommendation_knn)|
-|[Sales Data Analysis](https://github.com/zyf2021/Sales-Data-Analysis.git)|Empty|
+|[x] [Page View Time Series Visualizer](https://github.com/zyf2021/Page-View-Time-Series-Visualizer)|[x] [Book Recommendation Engine using KNN](https://github.com/zyf2021/fcc_book_recommendation_knn)|
+|[x] [Sales Data Analysis](https://github.com/zyf2021/Sales-Data-Analysis.git)|Empty|
 
 
 - [ConstructVision]([https://github.com/yana-ivanova/housing-price-prediction](https://github.com/zyf2021/construct_vision/tree/master)) - My master project.
