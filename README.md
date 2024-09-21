@@ -2,10 +2,10 @@
 I hold a Master's degree in Machine Learning and Big Data. I am passionate about developing and applying machine learning methods, data analysis, and software development. My goal is to use cutting-edge technologies to solve real-world problems and improve the quality of life.
 
 ## 🔧 Skills:
-- **Programming Languages:** Python, C++, Java
-- **Machine Learning:** NumPy, pandas, scikit-learn, TensorFlow, Keras, PyTorch
+- **Programming Languages:** Python, C++, Java, R
+- **Machine Learning:** PyTorch, NumPy, pandas, scikit-learn, TensorFlow, Keras
 - **Tools:** Git, SQL, Docker
-- **Others:** MS Office, Data Visualization
+- **Others:** MS Office Excel, Data Visualization
 
 ## 🔭 I’m currently working on:
 - Enhancing my knowledge and skills in computer vision projects using PyTorch.
