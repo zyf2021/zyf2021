@@ -21,7 +21,7 @@ I hold a Master's degree in Machine Learning and Big Data. I am passionate about
 |<ul><li>- [x] [Page View Time Series Visualizer](https://github.com/zyf2021/Page-View-Time-Series-Visualizer) </li></ul> |<ul><li>- [x] [Book Recommendation Engine using KNN](https://github.com/zyf2021/fcc_book_recommendation_knn) </li></ul>|
 |<ul><li>- [x] [Sales Data Analysis](https://github.com/zyf2021/Sales-Data-Analysis.git) </li></ul>|Empty|
 |<ul><li>- [x] [Titanic Survival Prediction](https://github.com/zyf2021/Titanic-Survival-Prediction/tree/main) </li></ul>|Empty|
-|Empty|Empty|
+|<ul><li>- [x] [Forecasting electricity consumption](https://github.com/zyf2021/Forecasting-electricity-consumption) </li></ul>|Empty|
 |Empty|Empty|
 |Empty|Empty|
 |Empty|Empty|
