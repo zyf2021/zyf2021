@@ -42,15 +42,13 @@ I hold a Master's degree in Machine Learning and Big Data. I am passionate about
 
 ## 💼 Professional Experience:
 
-### Data Scientist
-**ABC Tech Solutions** | June 2020 - June 2022
+### Data Scientist | June 2020 - June 2022
 - Developed predictive models to forecast customer behavior, resulting in a 15% increase in customer retention.
 - Analyzed large datasets using Python, SQL, and data visualization tools to provide actionable insights.
 - Collaborated with cross-functional teams to design and implement data-driven solutions for business problems.
 - Utilized machine learning libraries like scikit-learn and TensorFlow to build and deploy models.
 
-### Machine Learning Engineer
-**XYZ Innovations** | June 2022 - June 2022
+### Machine Learning Engineer | June 2022 - June 2022
 - Designed and implemented machine learning algorithms for image recognition and natural language processing projects.
 - Developed and optimized neural network models using PyTorch, improving accuracy by 20%.
 - Conducted data preprocessing, feature engineering, and model evaluation for various machine learning projects.
