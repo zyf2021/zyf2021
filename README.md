@@ -23,8 +23,8 @@ I hold a Master's degree in Machine Learning and Big Data. I am passionate about
 |<ul><li>- [x] [Titanic Survival Prediction](https://github.com/zyf2021/Titanic-Survival-Prediction/tree/main) </li></ul>|Empty|
 |<ul><li>- [x] [Forecasting electricity consumption](https://github.com/zyf2021/Forecasting-electricity-consumption) </li></ul>|Empty|
 |<ul><li>- [x] [Boston House Prices-Advanced Regression Techniques](https://github.com/zyf2021/Boston-House-Prices-Advanced-Regression-Techniques) </li></ul>|Empty|
-|<ul><li>- [ ][Cinema Classification](https://github.com/zyf2021/cinema_classification_1) </li></ul>|Empty|
-|<ul><li>- [ ][Breast](https://github.com/zyf2021/Breast) |Empty|
+|<ul><li>- [x] [Cinema Classification](https://github.com/zyf2021/cinema_classification_1) </li></ul>|Empty|
+|<ul><li>- [x] [Breast](https://github.com/zyf2021/Breast) |Empty|
 |Empty|Empty|
 
 
