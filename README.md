@@ -3,7 +3,7 @@ I hold a Master's degree in Machine Learning and Big Data. I am passionate about
 
 ## 🔧 Skills:
 - **Programming Languages:** Python, C++, Java, R
-- **Machine Learning:** PyTorch, NumPy, pandas, scikit-learn, TensorFlow, Keras
+- **Machine Learning:** PyTorch, NumPy, pandas, scikit-learn, seaborn, TensorFlow, Keras
 - **Tools:** Git, SQL, Docker
 - **Others:** MS Office Excel, Data Visualization
 
