@@ -1,71 +1,49 @@
-## Hi there 👋
-I hold a Master's degree in Machine Learning and Big Data. I am passionate about developing and applying machine learning methods, data analysis, and software development. My goal is to use cutting-edge technologies to solve real-world problems and improve the quality of life.
+# Hi there, I'm Zyf 👋
 
-## 🔧 Skills:
-- **Programming Languages:** Python, C++, Java, R
-- **Machine Learning:** PyTorch, NumPy, pandas, scikit-learn, seaborn, TensorFlow, Keras
-- **Tools:** Git, SQL, Docker
-- **Others:** MS Office Excel, Data Visualization
+**Machine Learning Engineer · Computer Vision Researcher · Python Developer**
 
-## 🔭 I’m currently working on:
-- Enhancing my knowledge and skills in computer vision projects using PyTorch.
-- Developing a recommendation system for an e-commerce platform.
+I build machine learning systems that connect research with practical applications. My main interests are **computer vision**, **image and video analysis**, **semantic segmentation**, and **multimodal learning**, especially combining RGB and hyperspectral (HSI) data.
 
-## 🌱 I’m currently learning:
-- Advanced deep learning techniques.
-- Best practices in data engineering and MLOps.
+## 🔬 What I'm working on
 
-## 🌟 Projects:
-|Data Analysis with Python|Machine Learning with Python|
-|---|---|
-|<ul><li>- [x] [Page View Time Series Visualizer](https://github.com/zyf2021/Page-View-Time-Series-Visualizer) </li></ul> |<ul><li>- [x] [Book Recommendation Engine using KNN](https://github.com/zyf2021/fcc_book_recommendation_knn) </li></ul>|
-|<ul><li>- [x] [Sales Data Analysis](https://github.com/zyf2021/Sales-Data-Analysis.git) </li></ul>|<ul><li>- [x] [Bollywood compare](https://github.com/zyf2021/bollywood-celebrety) </li></ul>|
-|<ul><li>- [x] [Titanic Survival Prediction](https://github.com/zyf2021/Titanic-Survival-Prediction/tree/main) </li></ul>|Empty|
-|<ul><li>- [x] [Forecasting electricity consumption](https://github.com/zyf2021/Forecasting-electricity-consumption) </li></ul>|Empty|
-|<ul><li>- [x] [Boston House Prices-Advanced Regression Techniques](https://github.com/zyf2021/Boston-House-Prices-Advanced-Regression-Techniques) </li></ul>|Empty|
-|<ul><li>- [x] [Cinema Classification](https://github.com/zyf2021/cinema_classification_1) </li></ul>|Empty|
-|<ul><li>- [x] [Breast](https://github.com/zyf2021/Breast) |Empty|
-|Empty|Empty|
+- **RGB + HSI segmentation:** researching ways to combine visual and spectral information for robust semantic segmentation, with a focus on inspection of construction materials and defects.
+- **Synthetic hyperspectral data:** developing and evaluating data-generation approaches for training and testing segmentation models.
+- **Video analytics:** working with object detection, multi-object tracking, re-identification, and event detection in real-world video streams.
+- **Visual quality inspection:** applying computer vision to defects in construction structures and industrial materials.
 
+## 🛠️ Tech stack
 
-- [ConstructVision]([https://github.com/yana-ivanova/housing-price-prediction](https://github.com/zyf2021/construct_vision/tree/master)) - My master project.
-- [Notebooks](https://github.com/zyf2021/0notebooks) - My other projects
+- **Languages:** Python, SQL, C++
+- **ML & deep learning:** PyTorch, scikit-learn, NumPy, pandas, TensorFlow
+- **Computer vision:** OpenCV, Detectron2, SegFormer, Mask2Former, U-Net, Albumentations
+- **Backend & infrastructure:** FastAPI, Django / DRF, Celery, PostgreSQL, Docker, Git, Linux
+- **Research workflow:** experiment design, model evaluation, reproducible pipelines, data visualization
 
+## 🚀 Selected projects
 
-<!-- ## 📫 Contact Me:
-- **Email:** yana.ivanova@example.com
-- **LinkedIn:** [linkedin.com/in/yana-ivanova](https://linkedin.com/in/yana-ivanova)
-- **GitHub:** [github.com/yana-ivanova](https://github.com/yana-ivanova) -->
+### Research and applied ML
 
-## 🎓 Education:
-- **Master's in Machine Learning and Big Data** - (2024)
-- **Bachelor's in Applied Mathematics and Informatics** - (2022)
+- **RGB + hyperspectral segmentation** — transformer-based segmentation models and RGB/HSI fusion experiments. *Research project; source code is not publicly available.*
+- **Synthetic HSI data generation** — spectral-data synthesis and task-oriented validation for semantic segmentation. *Ongoing research; source code is not publicly available.*
+- **ConstructVision** — computer vision for detecting and segmenting defects in construction structures. *Research software; public repository link currently unavailable.*
+- **Video analytics systems** — detection, tracking, identity association, and rule-based event processing. *Applied development; source code is not publicly available.*
 
-## 💼 Professional Experience:
+### Public repositories
 
-### Data Scientist | June 2020 - June 2022
-- Developed predictive models to forecast customer behavior, resulting in a 15% increase in customer retention.
-- Analyzed large datasets using Python, SQL, and data visualization tools to provide actionable insights.
-- Collaborated with cross-functional teams to design and implement data-driven solutions for business problems.
-- Utilized machine learning libraries like scikit-learn and TensorFlow to build and deploy models.
+- **[Video Splitter](https://github.com/zyf2021/video-splitter)** — desktop application for batch video processing using PyQt6 and FFmpeg.
+- **[Machine Learning Notebooks](https://github.com/zyf2021/0notebooks)** — experiments, notebooks, and learning materials.
+- **[Book Recommendation Engine](https://github.com/zyf2021/fcc_book_recommendation_knn)** — nearest-neighbor-based book recommendations.
+- **[Page View Time Series Visualizer](https://github.com/zyf2021/Page-View-Time-Series-Visualizer)** — exploratory analysis and visualization of time-series data.
 
-### Machine Learning Engineer | June 2022 - June 2022
-- Designed and implemented machine learning algorithms for image recognition and natural language processing projects.
-- Developed and optimized neural network models using PyTorch, improving accuracy by 20%.
-- Conducted data preprocessing, feature engineering, and model evaluation for various machine learning projects.
-- Worked with data scientists and software engineers to integrate machine learning models into production systems.
+## 🎓 Education and teaching
 
-<!--
-**zyf2021/zyf2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **PhD research (ongoing):** computer vision, multimodal image segmentation, and hyperspectral data analysis.
+- **M.Sc., Machine Learning and Big Data** (2024).
+- **B.Sc., Applied Mathematics and Informatics** (2022).
+- **Teaching:** university-level technical subjects and Python programming.
 
-Here are some ideas to get you started:
+## 🤝 Let's connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in research collaborations and practical projects involving computer vision, multimodal learning, and intelligent video analysis.
+
+**GitHub:** [@zyf2021](https://github.com/zyf2021)
